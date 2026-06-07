@@ -157,6 +157,7 @@ button:active {
     .fields {
         width: 100%;
         padding: 10px;
+        margin: 40px;
     }
     .field {
         width: 90%;
